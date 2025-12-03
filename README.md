@@ -1,6 +1,6 @@
-# Gaurish Realtime Avatar
+# Realtime StickMan Avatar
 
-**Gaurish** is a highly realistic, real-time interactive avatar system powered by Python and AI. It transforms your webcam feed into a fully animated, neon-styled digital puppet that tracks your body movements, facial expressions, fingers, and voice in real-time.
+**Realtime StickMan Avatar** is a highly realistic, real-time interactive avatar system powered by Python and AI. It transforms your webcam feed into a fully animated, neon-styled digital puppet that tracks your body movements, facial expressions, fingers, and voice in real-time.
 
 ## ✨ Features
 
